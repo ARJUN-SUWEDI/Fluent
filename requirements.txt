@@ -1,0 +1,17 @@
+streamlit==1.32.0
+opencv-python==4.11.0.86
+pytesseract==0.3.13
+pdf2image==1.17.0
+deep-translator==1.11.4
+fpdf2==2.7.8
+Pillow>=7.1.0,<11.0.0
+dejavu-fonts-ttf==2.37
+gTTS==2.5.1
+pyttsx3==2.90
+python-dotenv==1.0.1
+langchain-groq==0.1.1
+langchain-core==0.1.27
+SpeechRecognition==3.10.1
+pyaudio==0.2.14
+streamlit-webrtc==0.47.1
+numpy==1.26.1 
