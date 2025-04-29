@@ -11,6 +11,6 @@ python-dotenv
 langchain-groq
 langchain-core
 SpeechRecognition
-pyaudio
+PyAudio
 streamlit-webrtc
 numpy
