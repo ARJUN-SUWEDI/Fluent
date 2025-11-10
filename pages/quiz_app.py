@@ -22,7 +22,7 @@ from langchain_core.prompts import ChatPromptTemplate
 load_dotenv()
 
 # Initialize Groq
-llm = ChatGroq(model="gemma2-9b-it", temperature=0.5)
+llm = ChatGroq(model="openai/gpt-oss-120b", temperature=0.5)
 
 
 # Define the prompt template
